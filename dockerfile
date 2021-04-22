@@ -43,8 +43,6 @@ RUN apt-get update && apt-get install -y -q --no-install-recommends \
 
 
 # Clone the conf files into the docker container
-RUN git clone https://utsavdrydotinfotech:8d81dfdffafd9e50e6fb76fe09c17028977ed78e@github.com/rydotinfotech/va_client.git
-RUN git clone https://utsavdrydotinfotech:8d81dfdffafd9e50e6fb76fe09c17028977ed78e@github.com/rydotinfotech/va_server.git
 
 RUN /install.sh
 
