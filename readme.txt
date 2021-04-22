@@ -1,1 +1,1 @@
-new one and check that also
+this repo is for dockerfile of va to auto pull and push purpose
