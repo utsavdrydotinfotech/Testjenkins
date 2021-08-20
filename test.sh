@@ -1,4 +1,5 @@
 echo "Start!"
+echo "good"
 p=`cat test.txt`
 echo $p
 	if [[ $p == dist ]]
