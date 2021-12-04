@@ -1,3 +1,0 @@
-
-
-Hello This is just test that only if anythings is changed in this folder then only jenkins have to trigger
